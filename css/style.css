@@ -59,6 +59,7 @@ aside{
 	float:left;
 	height:auto;
 	width:20%;
+	overflow:auto;
 }
 .clear{
   clear: both;
@@ -289,6 +290,7 @@ nav>ul>li:nth-child(1){
 
 /*---SIDEBAR---*/
 .side{
+	position:relative;
 	background:#eaeae4;
 	width:100%;
 	height:auto;
